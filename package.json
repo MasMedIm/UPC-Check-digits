@@ -1,0 +1,25 @@
+{
+  "name": "upc-check-digits-reddit",
+  "version": "1.0.0",
+  "description": "A scanner that can determine if a given (UPC-A) code is a valid bar code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasMedIm/UPC-check-digits.git"
+  },
+  "keywords": [
+    "UPC",
+    "CHECK",
+    "DIGITS",
+    "REDDIT"
+  ],
+  "author": "Salim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasMedIm/UPC-check-digits/issues"
+  },
+  "homepage": "https://github.com/MasMedIm/UPC-check-digits#readme"
+}
